@@ -1,0 +1,31 @@
+body {
+	background-color:#AA6C39;
+}
+
+#main_content{
+	position:relative;
+	margin:auto;
+	height:500px;
+	width:720px;
+	background-color: #FFD1AA;
+	padding:10px;
+	border-radius:2px;
+	box-shadow: 5px 5px 5px #804515;
+}
+
+#navbar{
+	width:100%;
+	background-color:#552700;
+}
+
+#navbar ul{
+	display:inline-block;
+	list-style:none;
+}
+
+a{text-decoration:none;
+  color:inherit;}
+
+.active_page{
+	font-weight:bold;
+}
